@@ -1,11 +1,10 @@
 <script setup lang="ts">
-import '../src/assets/scss/index.scss'
 
 </script>
 
 <template>
 <div>
-  <router-view/>
+  侧边栏
 </div>
 </template>
 

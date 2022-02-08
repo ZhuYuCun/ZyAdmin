@@ -1,11 +1,10 @@
 <script setup lang="ts">
-import '../src/assets/scss/index.scss'
 
 </script>
 
 <template>
 <div>
-  <router-view/>
+  主体内容
 </div>
 </template>
 
